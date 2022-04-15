@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/BG.png</file>
+        <file>images/SpeedoGauge.png</file>
+        <file>images/PowerGauge.png</file>
+        <file>images/Pointer.png</file>
+        <file>images/AnalogDialMusic.png</file>
+        <file>images/Map_Overlay.png</file>
+        <file>images/seatbelt.png</file>
+        <file>images/right.png</file>
+        <file>images/lowpower.png</file>
+        <file>images/lowbeam.png</file>
+        <file>images/lightfog.png</file>
+        <file>images/left.png</file>
+        <file>images/highbeam.png</file>
+        <file>images/headlight.png</file>
+        <file>images/handbrake.png</file>
+        <file>images/fog.png</file>
+        <file>images/dooropen.png</file>
+        <file>images/airbag.png</file>
+        <file>images/abs.png</file>
+        <file>fonts/pirulen.ttf</file>
+        <file>images/current_location_icon.png</file>
+        <file>DataSource.qml</file>
+        <file>images/macaw_logo.png</file>
+        <file>images/Gear_Box.png</file>
+        <file>images/Battery_Level_Full.png</file>
+        <file>images/Battery_Level_Empty.png</file>
+        <file>images/Battery_Level_4.png</file>
+        <file>images/Battery_Level_3.png</file>
+        <file>images/Battery_Level_2.png</file>
+        <file>images/Battery_Level_1.png</file>
+        <file>images/SpeedLimit_Icon.png</file>
+        <file>fonts/Urbanist-Regular.ttf</file>
+        <file>fonts/Roboto-Regular.ttf</file>
+        <file>Media.qml</file>
+        <file>images/media_art.png</file>
+        <file>Speedometer.qml</file>
+        <file>Powermeter.qml</file>
+        <file>images/line_divider_trip.png</file>
+        <file>images/line_divider_music.png</file>
+        <file>fonts/Biysk.ttf</file>
+        <file>images/macaw.png</file>
+    </qresource>
+</RCC>
