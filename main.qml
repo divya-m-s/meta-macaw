@@ -5,7 +5,6 @@ import QtQuick.Controls.Styles 1.4
 import QtQuick.Extras 1.4
 import QtQuick.Layouts 1.14
 import QtLocation 5.6
-import QtPositioning 5.6
 import QtQuick.Timeline 1.0
 import QtQml 2.2
 import QtGraphicalEffects 1.12
@@ -53,7 +52,7 @@ Window {
             x:420
             y:134
             plugin: mapPlugin
-            center: QtPositioning.coordinate(8.558961, 76.882808)
+            //center: QtPositioning.coordinate(8.558961, 76.882808)
              //center: QtPositioning.coordinate(60.170448, 24.942046)
             zoomLevel: 15
             copyrightsVisible: false
