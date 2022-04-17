@@ -1,9 +1,9 @@
-import QtQuick 2.15
-import QtQuick.Window 2.15
-import QtQuick.Controls 2.15
+import QtQuick 2.14
+import QtQuick.Window 2.14
+import QtQuick.Controls 2.14
 import QtQuick.Controls.Styles 1.4
 import QtQuick.Extras 1.4
-import QtQuick.Layouts 1.15
+import QtQuick.Layouts 1.14
 
 Item {
     id: powermeter
