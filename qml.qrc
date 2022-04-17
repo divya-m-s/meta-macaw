@@ -35,12 +35,68 @@
         <file>fonts/Urbanist-Regular.ttf</file>
         <file>fonts/Roboto-Regular.ttf</file>
         <file>Media.qml</file>
-        <file>images/media_art.png</file>
         <file>Speedometer.qml</file>
         <file>Powermeter.qml</file>
         <file>images/line_divider_trip.png</file>
         <file>images/line_divider_music.png</file>
         <file>fonts/Biysk.ttf</file>
         <file>images/macaw.png</file>
+        <file>RangeStatus.qml</file>
+        <file>TripStatus.qml</file>
+        <file>images/Music_Border.png</file>
+        <file>images/Music_3.png</file>
+        <file>images/Music_2.png</file>
+        <file>images/Music_1.png</file>
+        <file>turnIcons/TurnIcon_1.png</file>
+        <file>turnIcons/TurnIcon_2.png</file>
+        <file>turnIcons/TurnIcon_3.png</file>
+        <file>turnIcons/TurnIcon_4.png</file>
+        <file>turnIcons/TurnIcon_5.png</file>
+        <file>turnIcons/TurnIcon_6.png</file>
+        <file>turnIcons/TurnIcon_7.png</file>
+        <file>turnIcons/TurnIcon_8.png</file>
+        <file>turnIcons/TurnIcon_9.png</file>
+        <file>turnIcons/TurnIcon_10.png</file>
+        <file>turnIcons/TurnIcon_11.png</file>
+        <file>turnIcons/TurnIcon_12.png</file>
+        <file>turnIcons/TurnIcon_13.png</file>
+        <file>turnIcons/TurnIcon_14.png</file>
+        <file>turnIcons/TurnIcon_15.png</file>
+        <file>turnIcons/TurnIcon_16.png</file>
+        <file>turnIcons/TurnIcon_17.png</file>
+        <file>turnIcons/TurnIcon_18.png</file>
+        <file>turnIcons/TurnIcon_19.png</file>
+        <file>turnIcons/TurnIcon_20.png</file>
+        <file>turnIcons/TurnIcon_21.png</file>
+        <file>turnIcons/TurnIcon_22.png</file>
+        <file>turnIcons/TurnIcon_23.png</file>
+        <file>turnIcons/TurnIcon_24.png</file>
+        <file>turnIcons/TurnIcon_25.png</file>
+        <file>turnIcons/TurnIcon_26.png</file>
+        <file>turnIcons/TurnIcon_27.png</file>
+        <file>turnIcons/TurnIcon_28.png</file>
+        <file>turnIcons/TurnIcon_29.png</file>
+        <file>turnIcons/TurnIcon_30.png</file>
+        <file>turnIcons/TurnIcon_31.png</file>
+        <file>turnIcons/TurnIcon_32.png</file>
+        <file>turnIcons/TurnIcon_33.png</file>
+        <file>turnIcons/TurnIcon_34.png</file>
+        <file>turnIcons/TurnIcon_35.png</file>
+        <file>turnIcons/TurnIcon_36.png</file>
+        <file>turnIcons/TurnIcon_37.png</file>
+        <file>turnIcons/TurnIcon_38.png</file>
+        <file>turnIcons/TurnIcon_39.png</file>
+        <file>turnIcons/TurnIcon_40.png</file>
+        <file>turnIcons/TurnIcon_41.png</file>
+        <file>turnIcons/TurnIcon_42.png</file>
+        <file>turnIcons/TurnIcon_43.png</file>
+        <file>turnIcons/TurnIcon_44.png</file>
+        <file>turnIcons/TurnIcon_45.png</file>
+        <file>turnIcons/TurnIcon_46.png</file>
+        <file>turnIcons/TurnIcon_47.png</file>
+        <file>turnIcons/TurnIcon_48.png</file>
+        <file>turnIcons/TurnIcon_49.png</file>
+        <file>turnIcons/TurnIcon_50.png</file>
+        <file>turnIcons/TurnIcon_51.png</file>
     </qresource>
 </RCC>
