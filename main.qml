@@ -352,7 +352,7 @@ Window {
         background: Rectangle {
             color: "black"
         }
-        onClicked: window.visibility = "Windowed"
+        onClicked: window.visible = false;
 
     }
 
