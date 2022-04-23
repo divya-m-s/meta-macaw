@@ -4,8 +4,8 @@ import QtQuick.Controls 2.14
 import QtQuick.Controls.Styles 1.4
 import QtQuick.Extras 1.4
 import QtQuick.Layouts 1.14
-import QtLocation 5.6
-import QtPositioning 5.6
+import QtLocation 5.14
+import QtPositioning 5.14
 import QtQml 2.2
 import QtGraphicalEffects 1.12
 
